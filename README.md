@@ -1,5 +1,3 @@
-# Excel-Inventory-Management-System
-
 # 📦 Inventory Management & Purchasing Analytics System
 
 ### Excel • VBA • Inventory Control • Supply Chain Analytics • Purchasing Optimization
