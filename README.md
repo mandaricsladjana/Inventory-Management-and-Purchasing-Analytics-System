@@ -2,7 +2,7 @@
 
 # 📦 Inventory Management & Purchasing Analytics System
 
-### Excel | VBA | Inventory Control | Supply Chain Analytics | Purchasing Optimization
+### Excel • VBA • Inventory Control • Supply Chain Analytics • Purchasing Optimization
 
 ## 📌 Project Overview
 
@@ -14,7 +14,7 @@ By combining Excel formulas, PivotTables, interactive reporting, and VBA automat
 
 The project simulates a real-world inventory management environment involving multiple warehouses, automotive parts, suppliers, stock movements, and purchasing requirements.
 
-## 🎯 Business Problem
+## 🔹 Business Problem
 
 Inventory and purchasing teams must balance product availability with inventory costs while managing changing demand, supplier lead times, and stock movements across multiple locations.
 
@@ -41,7 +41,7 @@ The purchasing and inventory teams need to answer questions such as:
 
 Develop an integrated Excel solution that connects inventory records, transaction history, demand analysis, and purchasing requirements to support more efficient inventory control and data-driven supply chain decisions.
 
-## 💡 Proposed Solution
+## 🔹 Proposed Solution
 
 The system uses structured Excel tables, calculation logic, and reporting tools to create a centralized inventory management workflow.
 
@@ -58,7 +58,7 @@ It is designed to help users:
 9. Present operational KPIs and purchasing insights through reports and dashboards.
 10. Explore historical trends to support demand planning and future purchasing decisions.
 
-## ⚙️ Key Features
+## 🔹 Key Features
 
 ### 1. Inventory Monitoring & Stock Control
 
@@ -207,7 +207,7 @@ AI-assisted or predictive functionality will be evaluated as an extension of the
 
 Any forecasts will need to be validated against historical data before being used to guide real purchasing decisions.
 
-## 🛠️ Tools & Technologies
+## 🔹 Tools & Technologies
 
 | Technology | Application |
 |---|---|
@@ -221,7 +221,7 @@ Any forecasts will need to be validated against historical data before being use
 | Supply Chain Analytics | Inventory monitoring, purchasing analysis, and operational KPIs. |
 | Predictive Analytics | Planned exploration of demand trends and forecasting. |
 
-## 🗂️ Workbook Structure
+## 🔹 Workbook Structure
 
 The workbook is organized into dedicated sections for inventory management, transaction tracking, purchasing analysis, and reporting.
 
@@ -235,7 +235,7 @@ The workbook is organized into dedicated sections for inventory management, tran
 
 The workbook also incorporates a VBA-based interface to support transaction entry and improve navigation.
 
-## 📊 Analytical Approach
+## 🔹 Analytical Approach
 
 The project follows a structured analytical workflow:
 
@@ -260,7 +260,7 @@ Summarize operational data through KPIs, PivotTables, and interactive reporting.
 **7. Automation & Decision Support**  
 Use VBA and structured workflows to simplify transaction entry and make inventory insights more accessible.
 
-## 📈 Business Value
+## 🔹 Business Value
 
 The project is designed to demonstrate how an Excel-based analytical solution can support inventory and purchasing operations.
 
@@ -279,7 +279,7 @@ The actual business impact will depend on the quality of the data, the accuracy 
 
 Quantitative improvements, such as time saved or reductions in stockout risk, should be measured through testing rather than assumed in advance.
 
-## 🧪 Validation & Testing
+## 🔹 Validation & Testing
 
 The solution should be evaluated using realistic inventory scenarios, including:
 
@@ -295,7 +295,7 @@ The solution should be evaluated using realistic inventory scenarios, including:
 
 Testing helps verify that stock calculations, replenishment recommendations, and reporting outputs remain consistent when the underlying data changes.
 
-## 🚀 Future Development
+## 🔹 Future Development
 
 Potential extensions include:
 
@@ -312,7 +312,7 @@ Potential extensions include:
 
 These enhancements will be added and documented as they are developed and validated.
 
-## 👩‍💻 Skills Demonstrated
+## 🔹 Skills Demonstrated
 
 This project brings together technical and business skills across several areas.
 
@@ -356,7 +356,7 @@ This project brings together technical and business skills across several areas.
 - Operational KPI development.
 - Business-oriented analytical thinking.
 
-## 💼 Project Context
+## Project Context
 
 This is a portfolio project developed to demonstrate how data analysis, inventory management principles, and Excel automation can be combined to address practical operational challenges.
 
